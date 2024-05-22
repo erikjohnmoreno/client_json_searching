@@ -5,8 +5,8 @@ This is a minimalist command-line application written in Ruby for searching thro
 2. Find and display clients with duplicate email addresses.
 
 ## Usage
-1. Searching: ruby client_search.rb -f clients.json -s "John"
-2. Finding Duplicates: ruby client_search.rb -f clients.json -d
+1. ruby client_search.rb -f clients.json -s "John"
+2. ruby client_search.rb -f clients.json -d
 
 ### JSON File Format
 
